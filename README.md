@@ -51,15 +51,15 @@ Software Engineer with a passion for building scalable data-driven applications 
 
 ## 💼 Featured Projects  
 
-### 🔸 [Let’s Blog](https://github.com/Sailaxmiveldanda/)  
+### 🔸 [Let’s Blog](https://github.com/garrepellyrakshitha/Blogging.git) 
 A student blogging platform with user roles, admin panels, and AWS deployment.  
 **Tech Stack:** MongoDB, Python, HTML, AWS
 
-### 🔸 Music Festival Management  
+### 🔸 Music Festival Management(https://github.com/garrepellyrakshitha/MusicFest-Management-Sysytem.git)
 Ticketing and scheduling platform with user authentication and real-time updates.  
 **Tech Stack:** Python, MongoDB, CSS, Git
 
-### 🔸 [Social Distancing Detector](https://github.com/Sailaxmiveldanda/Social_Distance_Project.git)  
+### 🔸 [Social Distancing Detector](https://github.com/garrepellyrakshitha/Social_Distancing_withML.git) 
 Real-time crowd density analysis using computer vision and YOLO.  
 **Tech Stack:** Python, OpenCV, ML, NumPy, Pandas
 
