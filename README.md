@@ -55,7 +55,7 @@ Software Engineer with a passion for building scalable data-driven applications 
 A student blogging platform with user roles, admin panels, and AWS deployment.  
 **Tech Stack:** MongoDB, Python, HTML, AWS
 
-### 🔸 Music Festival Management(https://github.com/garrepellyrakshitha/MusicFest-Management-Sysytem.git)
+### 🔸 [Music Festival Management](https://github.com/garrepellyrakshitha/MusicFest-Management-Sysytem.git)
 Ticketing and scheduling platform with user authentication and real-time updates.  
 **Tech Stack:** Python, MongoDB, CSS, Git
 
