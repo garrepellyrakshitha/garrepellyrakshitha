@@ -1,15 +1,15 @@
 # 👋 Hi, I'm Rakshitha Garrepelly
 
-Software Engineer with a passion for building scalable data-driven applications and full-stack solutions. Experienced in cloud computing, big data technologies, database optimization, and backend automation.
+Data Analyst with a passion for building scalable data-driven applications and full-stack solutions. Experienced in cloud computing, big data technologies, database optimization, and backend automation.
 
 ---
 
 ## 🚀 About Me  
 
 - 🎓 Master’s in Computer Science – University of Central Missouri (2024)  
-- 💼 SQL Developer at BAVE Technologies | Former Associate Software Engineer at DXC Technologies  
+- 💼 Data Analyst at BAVE Technologies | Former Data Analyst at Hexaware Technologies  
 - 🛠️ Skilled in Python, Java, SQL, AWS, Azure, PySpark, and Kafka  
-- 🔍 Actively seeking full-time software development opportunities  
+- 🔍 Actively seeking full-time data analyst opportunities  
 
 ---
 
@@ -81,7 +81,8 @@ IoT device for real-time location-based alerts for women’s safety.
 
 ## 📫 Connect with Me  
 - **LinkedIn**: [Rakshitha Garrepelly](https://www.linkedin.com/in/rakshitha-g-501846196)  
-- **Email**: garrepellyrakshitha@gmail.com  
+- **Email**: garrepellyrakshitha@gmail.com
+- **Email**: rakshithagrr1@gmail.com
 
 ---
 
