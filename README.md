@@ -68,8 +68,9 @@ IoT device for real-time location-based alerts for women’s safety.
 **Tech Stack:** Arduino Uno, GSM, GPS, Embedded C
 
 ### 🔸 [Music Store Analysis](https://github.com/garrepellyrakshitha/Music-Store-Analysis.git) 
-Analysis for the Online Music Store using SQL
-**Tech Stack:** SQL, PostgreSQL, DBMS, Analysis
+Analysis of a Online Music Stote using SQL
+**Tech Stack:** SQL, PostgreSQL, Analysis, DBMS
+
 ---
 
 ## 🎓 Certifications  
