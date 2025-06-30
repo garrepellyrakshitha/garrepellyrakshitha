@@ -67,6 +67,9 @@ Real-time crowd density analysis using computer vision and YOLO.
 IoT device for real-time location-based alerts for women’s safety.  
 **Tech Stack:** Arduino Uno, GSM, GPS, Embedded C
 
+### 🔸 [Music Store Analysis](https://github.com/garrepellyrakshitha/Music-Store-Analysis.git) 
+Analysis for the Online Music Store using SQL
+**Tech Stack:** SQL, PostgreSQL, DBMS, Analysis
 ---
 
 ## 🎓 Certifications  
